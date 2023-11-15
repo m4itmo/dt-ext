@@ -4,6 +4,10 @@
 
 The StackOverflow Search for VSCode extension enhances your development workflow by providing seamless access to StackOverflow directly within Visual Studio Code. With this extension, you can quickly search for solutions, code snippets, and answers to your programming questions without leaving your development environment.
 
+![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/m4itmo/dt-ext)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/m4itmo/dt-ext)
+![GitHub License](https://img.shields.io/github/license/m4itmo/dt-ext)
+
 ## Features
 
 - **Effortless Search:** Perform StackOverflow searches directly from VSCode with a few simple commands.
