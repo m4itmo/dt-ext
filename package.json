@@ -2,7 +2,8 @@
   "name": "dt-ext",
   "displayName": "dt-ext",
   "description": "The dt-ext for VSCode extension providing seamless access to StackOverflow directly within Visual Studio Code",
-  "version": "0.1.1",
+  "version": "0.1.2",
+  "icon": "resources/dt-ext.jpg",
   "publisher": "m4itmo",
   "engines": {
     "vscode": "^1.84.0"
@@ -39,7 +40,7 @@
     "test": "test"
   },
   "author": "std46d6b",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "dependencies": {
     "axios": "^1.6.2"
   },

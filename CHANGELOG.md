@@ -1,5 +1,9 @@
 # dt-ext Change Log
 
+## v0.1.2 - 2023-11-16
+- Added icon
+- Fixed license in package.json
+
 ## v0.1.1 - 2023-11-16
 - Added changelog
 
